@@ -1,8 +1,9 @@
 [
     {
-        "url":"https://raw.githubusercontent.com/FunkinCompiler/official-vslice-cdn/refs/heads/master/fnf085.fcpkg",
-        "label":"Funkin 0.8.5",
-        "description":"Shallow version",
-        "position":10
+        "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.8.5/fnf085-shallow.fcpkg",
+        "label":"Official FNF (V-Slice)",
+        "description":"Ver. 0.8.5",
+        "detail":"Shallow release",
+        "position":5
     }
 ]
