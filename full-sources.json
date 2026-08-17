@@ -1,5 +1,11 @@
 [
     {
+        "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.8.6/fnf086-full.fcpkg",
+        "label":"Official FNF (V-Slice)",
+        "description":"Ver. 0.8.6",
+        "position":24
+    },
+    {
         "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.9.0/fnf090-prev3-full.fcpkg",
         "label":"Official FNF (V-Slice)",
         "description":"Ver. 0.9.0-prev3",
@@ -10,5 +16,11 @@
         "label":"Official FNF (V-Slice)",
         "description":"Ver. 0.8.5",
         "position":10
+    },
+    {
+        "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/luaslice007/luaslice007-full.fcpkg",
+        "label":"LuaSlice Engine",
+        "description":"Ver. 0.0.7",
+        "position":9
     }
 ]
