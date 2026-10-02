@@ -13,6 +13,13 @@
         "detail":"Shallow release",
         "position":14
     },
+        {
+        "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.9.0/fnf090-cppia-shallow.fcpkg",
+        "label":"Official FNF (CPPIA preview)",
+        "description":"Ver. 0.9.0-prev3",
+        "position":13,
+        "detail":"Shallow release"
+    },
     {
         "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.8.5/fnf085-shallow.fcpkg",
         "label":"Official FNF (V-Slice)",
