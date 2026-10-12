@@ -6,16 +6,16 @@
         "position":24
     },
     {
+        "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.9.0-haxe/fnf090-prev4-full.fcpkg",
+        "label":"Official FNF (V-Slice)",
+        "description":"Ver. 0.9.0-prev4",
+        "position":19
+    },
+    {
         "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.9.0/fnf090-prev3-full.fcpkg",
         "label":"Official FNF (V-Slice)",
         "description":"Ver. 0.9.0-prev3",
         "position":18
-    },
-    {
-        "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.9.0/fnf090-cppia-full.fcpkg",
-        "label":"Official FNF (CPPIA preview)",
-        "description":"Ver. 0.9.0-prev3",
-        "position":17
     },
     {
         "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.8.5/fnf085-full.fcpkg",
