@@ -7,9 +7,9 @@
         "position":20
     },
     {
-        "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.9.0-haxe/fnf090-prev4-1-shallow.fcpkg",
-        "label":"Official FNF (V-Slice)",
-        "description":"Ver. 0.9.0-prev4",
+        "url":"https://github.com/FunkinCompiler/fcpkg-cdn/releases/download/0.9.0-01/funkin090-prev4.1-shallpw.fcpkg",
+        "label":"Official FNF (V-Slice preview 4)",
+        "description":"Ver. 0.9.0-prev4.1",
         "position":15,
         "detail":"Shallow release"
     },
